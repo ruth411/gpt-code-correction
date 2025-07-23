@@ -11,3 +11,4 @@ __pycache__/
 /data_tokens/
 /output/
 *.cache/
+/tokenizer/train_corpus.txt
